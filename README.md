@@ -29,7 +29,7 @@ To perform an in-depth analysis of sales data across different:
 - pandas
 - matplotlib
 - seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
